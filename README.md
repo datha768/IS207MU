@@ -8,5 +8,8 @@ Webiste sells clothes with the following homepage interface:
 
 
 
+Website Responsive:
+![image](https://user-images.githubusercontent.com/80412143/123238636-d54d4e00-d508-11eb-82f4-b90885ac2b28.png)
+![image](https://user-images.githubusercontent.com/80412143/123238650-d8e0d500-d508-11eb-8eb9-9e654285c372.png)
 
 
